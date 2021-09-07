@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "321PA1-abrush60/1.0.0": {
+        "runtime": {
+          "321PA1-abrush60.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "321PA1-abrush60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
